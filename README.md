@@ -16,6 +16,8 @@ We explain de deploy of the project
 
 ## How to Contribute
 
+Please fork this repository and then issue Pull Request for review.
+
 ## Copyright
 
 2020 Git.training.
