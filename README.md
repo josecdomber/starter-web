@@ -15,3 +15,6 @@ More text to explain de purpose of de project
 We explain de deploy of the project
 
 ## How to Contribute
+
+## Copyright
+2020 git.training.
