@@ -18,4 +18,4 @@ We explain de deploy of the project
 
 ## Copyright
 
-2020 git.training.
+2020 Git.training.
