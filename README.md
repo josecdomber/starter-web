@@ -16,7 +16,7 @@ We explain de deploy of the project
 
 ## How to Contribute
 
-Please fork this repository and then issue Pull Request for review.
+Please fork this repository and then issue Pull Request for review it!
 
 ## Copyright
 
