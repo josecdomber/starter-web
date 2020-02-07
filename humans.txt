@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    José Carlos Domínguez  josecdomber@gmail.com
 
 # THANKS
 
